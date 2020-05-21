@@ -127,5 +127,5 @@ edit:prompt = {
 }
 
 fn install-perm-prompt {
-	echo "use github.com/pontaoski/melethe/hampë" >> ~/.elvish/rc.elv
+	echo "use github.com/pontaoski/melehte/hampë" >> ~/.elvish/rc.elv
 }

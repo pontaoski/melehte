@@ -5,6 +5,6 @@
 ```
 use epm
 epm install github.com/pontaoski/melehte
-use github.com/pontaoski/melehte
-melehte:install-perm-prompt
+use github.com/pontaoski/melehte/hampë
+hampë:install-perm-prompt
 ```
