@@ -125,3 +125,7 @@ edit:prompt = {
 	arrow "#393c3f" ""
 	put " "
 }
+
+fn install-perm-prompt {
+	echo "use github.com/pontaoski/melethe/hampë" >> ~/.elvish/rc.elv
+}
